@@ -1,0 +1,69 @@
+1580704629175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg9hTDb"
+1580704633099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580704633100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580704633100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580704633100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1580704645566	Marionette	INFO	Listening on port 41917
+1580704645640	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10020, MediaPlayback #2] WARNING: Decoder=7f62f28ddc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 10020, MediaPlayback #2] WARNING: Decoder=7f62f28ddc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 10020, MediaPlayback #1] WARNING: Decoder=7f62ef55d400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 10020, MediaPlayback #1] WARNING: Decoder=7f62ef55d400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+1580704893177	Marionette	INFO	Stopped listening on port 41917
+1580704902412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYO15Ff"
+1580704906635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580704906636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580704906636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580704906636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1580704913754	Marionette	INFO	Listening on port 45741
+1580704913858	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10351, MediaPlayback #1] WARNING: Decoder=7f43f3f0a000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 10351, MediaPlayback #1] WARNING: Decoder=7f43f3f0a000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 10351, MediaPlayback #2] WARNING: Decoder=7f43eb820800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 10351, MediaPlayback #2] WARNING: Decoder=7f43eb820800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+1580705162366	Marionette	INFO	Stopped listening on port 45741
+1580705174291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefTvDDs"
+1580705177778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580705177778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580705177779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580705177779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1580705183101	Marionette	INFO	Listening on port 32899
+1580705183175	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10637, MediaPlayback #1] WARNING: Decoder=7f568b5b3000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 10637, MediaPlayback #1] WARNING: Decoder=7f568b5b3000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 10637, MediaPlayback #3] WARNING: Decoder=7f568b5da800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 10637, MediaPlayback #3] WARNING: Decoder=7f568b5da800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+1580705451505	Marionette	INFO	Stopped listening on port 32899
+1580707109083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef5AEGG"
+1580707116268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580707116269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580707116269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580707116269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1580707126996	Marionette	INFO	Listening on port 33231
+1580707127071	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11857, MediaPlayback #2] WARNING: Decoder=7f6f149dc800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 11857, MediaPlayback #2] WARNING: Decoder=7f6f149dc800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 11857, MediaPlayback #2] WARNING: Decoder=7f6f15b7b000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 11857, MediaPlayback #2] WARNING: Decoder=7f6f15b7b000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1580707409526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPrG4B"
+1580707413679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580707413679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580707413680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580707413680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1580707421370	Marionette	INFO	Listening on port 42249
+1580707421511	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12183, MediaPlayback #2] WARNING: Decoder=7f53043f6800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 12183, MediaPlayback #2] WARNING: Decoder=7f53043f6800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 12183, MediaPlayback #2] WARNING: Decoder=7f52fc370c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 351
+[Child 12183, MediaPlayback #2] WARNING: Decoder=7f52fc370c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3307
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
