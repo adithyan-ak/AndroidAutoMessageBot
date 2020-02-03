@@ -4,7 +4,7 @@ Automated Android text messaging bot that uses android web messaging feature to 
 ## Installation
 
 ```
-git clone https://github.com/adithyan-ak/AndroidMessageBot.git
+git clone https://github.com/adithyan-ak/AndroidAutoMessageBot
 ```
 
 ## Recommended Python Version:
