@@ -1,5 +1,6 @@
 # Android Auto Message Bot :robot:
-Automated Android text messaging bot that uses android web messaging feature to send automated text messages to multiple contacts for a particular interval.
+
+Automated Android text messaging bot that uses android web messaging feature to send automated reply messages to multiple contacts for a particular interval.
 
 ## Installation
 
@@ -15,7 +16,7 @@ The Bot supports **Python 3**.
 
 ## Dependencies:
 
-The Bot depends on the `Selenium` python module.
+The Bot depends on the `Selenium`and `Chatterbot` python modules.
 
 #### Selenium Module (https://selenium-python.readthedocs.io/)
 
