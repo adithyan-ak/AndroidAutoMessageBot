@@ -31,19 +31,29 @@ sudo pip3 install selenium
 ```
 ## Setup:
 
-Edit the MessageBot.py file according to your needs. 
+Edit the **Automessage.py** file according to your needs. 
 
 Add the contact names to whom you wish to send the message in ```names```(Tuple) variable of **Line 10**.
 
-Add the Message which you wish to send to the selected contacts in ```Message``` variable of **Line 12**
+Add the Message which you wish to send to the selected contacts in ```Message``` variable of **Line 12**.
+
+Edit the **AutoChat.py** file according to your needs.
+
+Change the contact name with whom you want the Chatbot to reply automatically in ```Contact``` variable of **Line 8**.
 
 
 ## Execution:
 
-You can run the Bot by executing the MessageBot.py file.
+To send a particular message to selected contacts automatically, run the **AutoMessage.py** file.
 
 ```
-python3 MessageBot.py
+python3 AutoMessage.py
+```
+
+To send automatically chat to a contact, run the ***AutoChat.py** file.
+
+```
+python3 AutoChat.py
 ```
 
 ## License
