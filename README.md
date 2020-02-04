@@ -50,7 +50,7 @@ To send a particular message to selected contacts automatically, run the **AutoM
 python3 AutoMessage.py
 ```
 
-To send automatically chat to a contact, run the ***AutoChat.py** file.
+To send automatically chat to a contact, run the **AutoChat.py** file.
 
 ```
 python3 AutoChat.py
