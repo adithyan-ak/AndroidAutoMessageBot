@@ -5,6 +5,8 @@ from chatterbot import ChatBot
 
 def Main():
 
+    Contact = 'Camillus'
+
     driver = webdriver.Firefox()
 
     driver.get("https://messages.google.com/web/")
@@ -15,7 +17,7 @@ def Main():
     driver.find_element_by_xpath("//span/div[2]").click() #Click on Search box
     time.sleep(5)
     driver.find_element_by_xpath("//input[@placeholder='Type a name, phone number, or email']").clear()
-    driver.find_element_by_xpath("//input[@placeholder='Type a name, phone number, or email']").send_keys('Cute Camillus') #Type in Searchbox
+    driver.find_element_by_xpath("//input[@placeholder='Type a name, phone number, or email']").send_keys(Contact) #Type in Searchbox
     time.sleep(7)
     driver.find_element_by_xpath("//mw-contact-row/div/div/div[2]").click() #Click contact name in search box
     time.sleep(7)
